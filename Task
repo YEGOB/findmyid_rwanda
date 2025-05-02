@@ -1,0 +1,52 @@
+# Lost ID Finder Platform
+
+A platform designed to help individuals recover their lost identification documents through a centralized digital system.
+
+## 🧭 Project Overview
+
+This platform enables users to:
+
+- Register found IDs with essential details
+- Search for lost IDs using ID numbers
+- Prevent duplicates and ensure data accuracy
+
+## 🔖 Supported ID Categories
+
+The platform supports the following types of IDs:
+
+1. **Passport**
+2. **National ID**
+3. **Driver’s License**
+4. **Other IDs** (e.g., student IDs, work IDs)
+
+## 📝 Required Information Per Entry
+
+Each registered ID must include:
+
+- **ID Number** (must be unique within its category)
+- **Category** (one of the four listed above)
+- **Location Found** (where the ID was discovered)
+- **Date Found**
+
+## ✅ Validation Rules
+
+- **No Duplicate Entries**  
+  ID numbers must be unique within each category. Duplicate entries are not allowed.
+
+## 🚀 Features
+
+- Easy registration of found IDs
+- Fast and simple search by ID number
+- Clean categorization for better user experience
+
+## 🔮 Future Enhancements
+
+- **User Notification System**  
+  Allow users to subscribe with their ID number and receive a notification when it’s found.
+
+- **ID Verification**  
+  Add verification tools to confirm the validity of found ID entries.
+
+---
+
+Feel free to contribute or suggest improvements.
